@@ -3,7 +3,7 @@
 
 <template>
   <main>
-    <h1>Exercice 3 : Personnages de Disney</h1>
+    <h1>Exercice 3 : Personnages de Rick et Morty</h1>
     <div class="row">
       <div class="col-12">
         <h2>Travail à faire</h2>
